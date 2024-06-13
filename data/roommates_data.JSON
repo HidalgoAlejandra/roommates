@@ -1,0 +1,28 @@
+{
+  "roommates": [
+    {
+      "id": "1d278e",
+      "nombre": "Alejandra",
+      "email": "",
+      "debe": 0,
+      "recibe": 0,
+      "total": 0
+    },
+    {
+      "id": "b45c03",
+      "nombre": "Lillian",
+      "email": "",
+      "debe": 0,
+      "recibe": 0,
+      "total": 0
+    },
+    {
+      "id": "eeae2d",
+      "nombre": "Luis Manuel",
+      "email": "",
+      "debe": 0,
+      "recibe": 0,
+      "total": 0
+    }
+  ]
+}
